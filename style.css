@@ -62,7 +62,7 @@ body{
 }
  .index-hotel {
      color:#FFFFFF;
-     background-image: url("/img/Hotel-11.jpg");
+     background-image: url("../img/Hotel-11.jpg");
      background-position: 0 0;
      background-repeat: no-repeat;
 }
